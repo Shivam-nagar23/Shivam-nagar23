@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**Shivam-nagar23/Shivam-nagar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Dmitry Semigradsky</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=semigradsky&label=Profile%20views&color=0e75b6&style=flat" alt="semigradsky" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 About Me
+
+- 📍 Based in Gurgaon, India  
+- 💻 Passionate about backend technologies and open source  
+- 📧 Reach me at: [nagarshivam409@gmail.com](mailto:nagarshivam409@gmail.com)  
+- 👔 [LinkedIn](https://www.linkedin.com/in/nagarshivam409)
+
+---
+
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=semigradsky&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-nagar23&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shivam-nagar23&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivam-nagar23&theme=onedark&column=7&margin-w=10&no-frame=true" />
+</p>
