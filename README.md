@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<h1 align="center">Hi there 👋, I'm Dmitry Semigradsky</h1>
+<h1 align="center">Hi there 👋, I'm Shivam Nagar</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=semigradsky&label=Profile%20views&color=0e75b6&style=flat" alt="semigradsky" />
+  <img src="https://komarev.com/ghpvc/?username=Shivam-nagar23&label=Profile%20views&color=0e75b6&style=flat" alt="Shivam-nagar23" />
 </p>
 
 ---
